@@ -1,7 +1,15 @@
 #include <stdio.h>
 
 int main (){
-printf("My name is Bhanu Pratap \n")
+printf("My name is Bhanu Pratap \n");
+return 0;
+}
 
+
+
+#include <stdio.h>
+
+int main (){
+printf("My name is Surendra");
 return 0;
 }
